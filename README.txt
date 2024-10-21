@@ -1,0 +1,2 @@
+Bu program istenilen saatler aralığında otomatik olarak bilgisayarı kapatabilir. Sadece programda istediğiniz saat aralığını girebilirsiniz.
+Program gerekli ihtiyaçlar halinde elbette geliştirilebilir.
